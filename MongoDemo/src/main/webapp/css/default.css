@@ -1,0 +1,7 @@
+root { display: block; }
+body { background: aliceblue; font-family: tahoma, arial, sans-serif; font-size: 115%; }
+li { font-size: x-large; padding-bottom: 10px; }
+table { margin: 10px 5px 10px 5px;}
+th { font-weight: bold; text-align: left; padding: 5px; }
+td { text-align: left; padding: 5px; }
+tr.highlight { background: powderblue; }
