@@ -1,4 +1,4 @@
-This Git repo contains the notes & sample code from meetings of the [Indianapolis Hadoop User Group](http://www.meetup.com/IndyHUG/).
+This Git repo contains the notes & sample code from meetings of the [Indianapolis Big Data meetup](http://www.meetup.com/IndyBigData/).
 
 Content associated with the following past meetups is contained this repo (in reverse chronological order):
 
